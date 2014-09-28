@@ -1,0 +1,55 @@
+﻿#circular {
+    width:200px;
+    height:200px;
+    position:absolute;
+    -webkit-animation-iteration-count:infinite;
+    -webkit-animation-timing-function:linear;
+    -webkit-animation-name:orbit;
+    -webkit-animation-duration:5s;
+    -moz-animation-iteration-count:infinite;
+    -moz-animation-timing-function:linear;
+    -moz-animation-name:orbit;
+    -moz-animation-duration:5s;
+    top:75px;
+    left:50px;
+}
+
+@-webkit-keyframes orbit { 
+from { -webkit-transform:rotate(0deg) } 
+to { -webkit-transform:rotate(360deg) } 
+}
+@-moz-keyframes orbit { 
+from { -moz-transform:rotate(0deg) } 
+to { -moz-transform:rotate(360deg) } 
+}
+
+#rectangular {
+    width:200px;
+    height:200px;
+    position:absolute;
+    -webkit-animation-iteration-count:infinite;
+    -webkit-animation-timing-function:linear;
+    -webkit-animation-name:rect;
+    -webkit-animation-duration:5s;
+    -moz-animation-iteration-count:infinite;
+    -moz-animation-timing-function:linear;
+    -moz-animation-name:rect;
+    -moz-animation-duration:5s;
+    top:350px;
+    left:50px;
+}
+
+@-webkit-keyframes rect { 
+    0%   {left:20px; top:300px;}
+    25%  {left:220px; top:300px;}
+    50%  {left:220px; top:500px;}
+    75%  { left:20px; top:500px;}
+    100% { left:20px; top:300px;}
+}
+@-moz-keyframes rect { 
+    0%   {left:20px; top:300px;}
+    25%  {left:220px; top:300px;}
+    50%  {left:220px; top:500px;}
+    75%  { left:20px; top:500px;}
+    100% { left:20px; top:300px;}
+}

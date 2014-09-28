@@ -1,0 +1,6 @@
+D:\ПРОГРАМИСТ\JS OOP\FunctionsAndFunctionExpressions\01-Module\bin\01-Module.dll.config
+D:\ПРОГРАМИСТ\JS OOP\FunctionsAndFunctionExpressions\01-Module\bin\01-Module.dll
+D:\ПРОГРАМИСТ\JS OOP\FunctionsAndFunctionExpressions\01-Module\bin\01-Module.pdb
+D:\ПРОГРАМИСТ\JS OOP\FunctionsAndFunctionExpressions\01-Module\obj\Debug\01-Module.csprojResolveAssemblyReference.cache
+D:\ПРОГРАМИСТ\JS OOP\FunctionsAndFunctionExpressions\01-Module\obj\Debug\01-Module.dll
+D:\ПРОГРАМИСТ\JS OOP\FunctionsAndFunctionExpressions\01-Module\obj\Debug\01-Module.pdb

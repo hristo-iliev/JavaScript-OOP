@@ -1,0 +1,6 @@
+D:\ПРОГРАМИСТ\JS OOP\FunctionsAndFunctionExpressions\02-MovingShapes\bin\02-MovingShapes.dll.config
+D:\ПРОГРАМИСТ\JS OOP\FunctionsAndFunctionExpressions\02-MovingShapes\bin\02-MovingShapes.dll
+D:\ПРОГРАМИСТ\JS OOP\FunctionsAndFunctionExpressions\02-MovingShapes\bin\02-MovingShapes.pdb
+D:\ПРОГРАМИСТ\JS OOP\FunctionsAndFunctionExpressions\02-MovingShapes\obj\Debug\02-MovingShapes.csprojResolveAssemblyReference.cache
+D:\ПРОГРАМИСТ\JS OOP\FunctionsAndFunctionExpressions\02-MovingShapes\obj\Debug\02-MovingShapes.dll
+D:\ПРОГРАМИСТ\JS OOP\FunctionsAndFunctionExpressions\02-MovingShapes\obj\Debug\02-MovingShapes.pdb

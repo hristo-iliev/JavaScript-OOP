@@ -1,0 +1,6 @@
+D:\ПРОГРАМИСТ\JS OOP\JsOOP\01-CanvasShapes\bin\01-CanvasShapes.dll.config
+D:\ПРОГРАМИСТ\JS OOP\JsOOP\01-CanvasShapes\bin\01-CanvasShapes.dll
+D:\ПРОГРАМИСТ\JS OOP\JsOOP\01-CanvasShapes\bin\01-CanvasShapes.pdb
+D:\ПРОГРАМИСТ\JS OOP\JsOOP\01-CanvasShapes\obj\Debug\01-CanvasShapes.csprojResolveAssemblyReference.cache
+D:\ПРОГРАМИСТ\JS OOP\JsOOP\01-CanvasShapes\obj\Debug\01-CanvasShapes.dll
+D:\ПРОГРАМИСТ\JS OOP\JsOOP\01-CanvasShapes\obj\Debug\01-CanvasShapes.pdb

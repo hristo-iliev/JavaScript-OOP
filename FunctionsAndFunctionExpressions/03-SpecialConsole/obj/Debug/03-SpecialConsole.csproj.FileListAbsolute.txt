@@ -1,0 +1,6 @@
+D:\ПРОГРАМИСТ\JS OOP\FunctionsAndFunctionExpressions\03-SpecialConsole\bin\03-SpecialConsole.dll.config
+D:\ПРОГРАМИСТ\JS OOP\FunctionsAndFunctionExpressions\03-SpecialConsole\bin\03-SpecialConsole.dll
+D:\ПРОГРАМИСТ\JS OOP\FunctionsAndFunctionExpressions\03-SpecialConsole\bin\03-SpecialConsole.pdb
+D:\ПРОГРАМИСТ\JS OOP\FunctionsAndFunctionExpressions\03-SpecialConsole\obj\Debug\03-SpecialConsole.csprojResolveAssemblyReference.cache
+D:\ПРОГРАМИСТ\JS OOP\FunctionsAndFunctionExpressions\03-SpecialConsole\obj\Debug\03-SpecialConsole.dll
+D:\ПРОГРАМИСТ\JS OOP\FunctionsAndFunctionExpressions\03-SpecialConsole\obj\Debug\03-SpecialConsole.pdb
